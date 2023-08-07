@@ -1,0 +1,44 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    padding: 0;
+    background-color: #f8f8f8;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #chat-box {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    padding: 10px;
+    height: 300px;
+    overflow-y: scroll;
+  }
+  
+  #user-input {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  #chat-history {
+    color: #777;
+    white-space: pre-line;
+  }
+  
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  

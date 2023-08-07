@@ -1,0 +1,23 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OpenAI Chat</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome</h1>
+        <div id="chat-box">
+            <pre id="chat-history">{{ chat_history }}</pre>
+        </div>
+        <form action="/chat_ai" method="post">
+            <textarea id="user-input" name="user_input" rows="4" cols="50" placeholder="Type your message here..."></textarea>
+            <input type="hidden" name="chat_history" value="{{ chat_history }}">
+            <br>
+            <input type="submit" value="Send">
+        </form>
+    </div>
+</body>
+</html>
