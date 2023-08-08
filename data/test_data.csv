@@ -1,4 +1,4 @@
-menu_item,restaurant_name,revenue_for_item,customer_name
+menu_item,restaurant,revenue,customer_name
 Burger,Foodie's Diner,10.50,John Smith
 Pasta,Italian Delight,15.75,Emily Johnson
 Pizza,Family Pizzeria,20.00,Michael Williams
