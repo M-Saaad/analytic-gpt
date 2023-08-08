@@ -1,158 +1,86 @@
 menu_item,restaurant_name,revenue_for_item,customer_name
-Burger Joint Burger,Burger Delight,12.50,John Doe
-Cheese Pizza,Pizza Palace,15.25,Alice Smith
-Spaghetti Bolognese,Italian Eats,14.75,Robert Johnson
-Caesar Salad,Fresh Greens Cafe,9.90,Emily Brown
-Grilled Chicken Sandwich,The Cozy Corner,10.50,Michael Lee
-Taco Supreme,Tasty Tacos,8.25,Susan Wilson
-Vanilla Ice Cream,Sweet Treats Shop,5.50,David Anderson
-Assorted Sushi,Sushi Heaven,22.00,Linda Martinez
-T-Bone Steak,Steakhouse Grill,28.75,James Taylor
-Pasta Primavera,Veggie Delight,14.50,Sarah Clark
-Chili Cheese Fries,Fast Bites,6.75,Thomas Miller
-BBQ Ribs,Hickory Smokes,18.90,Elizabeth White
-Chicken Caesar Wrap,Fresh Wraps,9.25,Michael Johnson
-Pepperoni Calzone,Italian Bistro,16.50,Emily Harris
-Philly Cheesesteak,Philly Deli,12.75,Andrew Davis
-Crispy Chicken Tenders,Finger Lickin' Chicken,8.90,Olivia Wilson
-Shrimp Fried Rice,Asian Fusion,11.50,Ethan Lee
-Mushroom Swiss Burger,The Burger Shack,13.25,Abigail Robinson
-Vanilla Ice Cream,Sweet Treats Shop,5.50,Emily Harris
-Assorted Sushi,Sushi Heaven,22.00,Linda Martinez
-T-Bone Steak,Steakhouse Grill,28.75,David Anderson
-Pasta Primavera,Veggie Delight,14.50,Sarah Clark
-Chili Cheese Fries,Fast Bites,6.75,Thomas Miller
-BBQ Ribs,Hickory Smokes,18.90,Elizabeth White
-Chicken Caesar Wrap,Fresh Wraps,9.25,Olivia Wilson
-Pepperoni Calzone,Italian Bistro,16.50,Emily Harris
-Philly Cheesesteak,Philly Deli,12.75,Andrew Davis
-Crispy Chicken Tenders,Finger Lickin' Chicken,8.90,Olivia Wilson
-Shrimp Fried Rice,Asian Fusion,11.50,Ethan Lee
-Mushroom Swiss Burger,The Burger Shack,13.25,Abigail Robinson
-Fish and Chips,Seafood Cove,17.50,Noah Green
-Chicken Alfredo,Pasta Paradise,15.75,Sophia Martin
-Mango Lassi,Indian Delights,5.25,William Rodriguez
-Gourmet Hot Dog,Dog Haus,10.50,Emma Anderson
-Chocolate Brownie Sundae,Sweet Bliss Desserts,7.25,Joseph Martinez
-Chicken Shawarma,Mediterranean Grill,11.90,Sophia Turner
-Margherita Pizza,Fresh Pizza Express,14.25,Noah Lee
-Beef Tacos,Taco Haven,9.50,Ava Lewis
-Banana Split,Ice Cream Dream,6.50,Liam Baker
-California Roll,Sushi Sensation,18.00,Sophia Nguyen
-NY Strip Steak,The Steakhouse,32.75,Lucas Wright
-Pesto Penne,Pasta Perfection,13.50,Aria Hernandez
-Veggie Burger,Plant-Based Bites,11.75,Elijah Foster
-Cheddar Bacon Fries,Cheesy Delights,8.90,Amelia Murphy
-Chicken Fried Rice,Wok Star,10.50,William Turner
-Classic Club Sandwich,Cafe Euphoria,9.25,Olivia Peterson
-Hawaiian Pizza,Pacific Pies,16.50,Mason Cooper
-Chicken Noodle Soup,Soup's On,7.75,Sofia Sanchez
-Chicken Tenders,The Chick Shack,8.90,Aiden Patel
-Miso Soup,Japanese Garden,5.50,Mia Robinson
-Portobello Mushroom Burger,The Veggie Patch,12.00,Logan Ross
-Churros with Chocolate,Churro Heaven,6.75,Evelyn Adams
-Orange Chicken,Golden Dragon,11.50,Henry Morris
-Caprese Salad,The Fresh Plate,9.75,Harper James
-Cheeseburger Sliders,Mini Bites,10.25,Ella Hill
-Chicken Teriyaki Bowl,Tokyo Kitchen,12.90,Avery Flores
-Raspberry Swirl Cheesecake,Sweet Temptations,7.50,Sofia Rivera
-Gourmet Grilled Cheese,The Cheese Melt,9.25,Sophia Turner
-Beef Burrito,Burrito Fiesta,11.50,Ava Henderson
-Red Velvet Cupcake,Cupcake Delights,4.50,Lucas Perez
-Garlic Butter Shrimp,Seafood Delish,15.25,Aria Hernandez
-Chicken Quesadilla,Queso Loco,8.75,Elijah Mitchell
-Chicken and Waffles,Soul Food Kitchen,12.90,Amelia Hayes
-Strawberry Milkshake,Milkshake Mania,5.50,William Smith
-Classic Margherita Pizza,Old World Pizzeria,14.25,Sofia Diaz
-Chicken Caesar Salad,Salad Sensation,10.50,Oliver Brooks
-Lemon Pepper Wings,Hot Wings Express,11.75,Abigail Powell
-Veggie Spring Rolls,Asian Delights,6.90,Michael Rodriguez
-Macaroni and Cheese,Mama's Kitchen,8.50,Sophia Turner
-Greek Gyro,Gyro Haven,10.25,Noah Murphy
-Pho Noodle Soup,Vietnamese Delights,9.50,Ava Patel
-Blueberry Pancakes,Pancake Paradise,7.25,Liam Ross
-Baked Ziti,Italian Flavors,12.90,Sofia Cook
-Classic Vanilla Sundae,Sweet Indulgence,5.50,Elijah Wright
-Chicken Parmesan,Parmesan Palace,14.25,Amelia Sanchez
-Fajita Quesadilla,Quesadilla Lovers,8.90,William Howard
-Chicken Alfredo Pizza,Pizza Perfection,15.50,Sofia Lewis
-Eggplant Parmesan,Italian Kitchen,10.75,Aiden Adams
-Belgian Waffles,Waffle World,7.90,Lily Ramirez
-Garlic Knots,The Garlic Knot,5.25,Logan Hernandez
-Crispy Fried Chicken,The Fried Coop,9.50,Aria Hernandez
-Cobb Salad,Fresh Greens Cafe,11.75,Mason Mitchell
-Chicken Fried Rice,Wok Star,10.50,Sophia Turner
-Fish Tacos,Taco Island,9.75,Oliver Hayes
-Cheese Ravioli,Ravioli Express,12.90,Harper Flores
-Strawberry Shortcake,Sweet Delights,6.25,Aria Patel
-Buffalo Chicken Wrap,Wrap It Up,8.90,Michael Foster
-Mango Sticky Rice,Thai Delights,7.50,Amelia Morris
-Beef and Broccoli Stir Fry,Asian Wok,11.25,William Murphy
-Margarita Pizza,Italian Eats,14.50,Sophia Foster
-Classic Caesar Salad,Salad Heaven,9.90,Ava Robinson
-Teriyaki Chicken Bowl,Tokyo Kitchen,12.75,Sofia Nguyen
-Turkey Club Sandwich,Cafe Deli,10.50,Noah Cooper
-Caramel Sundae,Sweet Swirls,5.25,Elijah James
-Chicken Shawarma Wrap,Middle Eastern Delight,8.75,Aria Hernandez
-Chicken Fajitas,Fiesta Grill,11.50,Liam Powell
-Tiramisu,Italian Desserts,6.90,Sofia Richardson
-Classic Meatball Sub,Subway Delights,7.75,Ava Hayes
-Chicken and Rice Soup,Soup Station,6.50,Aiden Adams
-Pulled Pork Sandwich,BBQ Hut,9.90,Harper Patel
-Margherita Flatbread,Pizza Paradise,10.25,Sophia Cook
-Chicken Nuggets,The Nugget Spot,5.50,Oliver Foster
-Cheeseburger,The Burger Joint,12.50,John Smith
-Chicken Alfredo,Italian Delights,15.75,Alice Johnson
-Steak and Fries,The Steakhouse,22.00,Michael Williams
-Vegetable Stir Fry,Healthy Bites,11.25,Susan Brown
-Fish Tacos,Taco Fiesta,14.50,David Miller
-Margherita Pizza,Pizza Palace,18.00,Linda Davis
-Chicken Caesar Salad,Fresh Greens Cafe,10.75,Robert Wilson
-Sushi Platter,Sakura Sushi,24.50,Sarah Anderson
-BBQ Ribs,Smoky BBQ,20.25,William Martinez
-Pad Thai,Spice Thai Cuisine,13.50,Michelle Robinson
-Spaghetti Carbonara,La Trattoria,16.25,Thomas Johnson
-Shrimp Tempura,Tokyo Bistro,19.00,Elizabeth White
-Chicken Noodle Soup,The Cozy Kitchen,8.50,David Lee
-Tofu and Broccoli,Green Garden Cafe,10.25,Sophia Moore
-Philly Cheesesteak,The Deli Corner,11.75,Sophia Turner
-Chocolate Cake,Sweet Treats Bakery,7.75,Emily Garcia
-Greek Gyro,Pita Paradise,9.00,James Lee
-Chicken Parmesan,The Italian Kitchen,14.25,Emma Hernandez
-Pho Soup,Pho Noodle House,11.50,Noah Moore
-Veggie Wrap,Green Garden Cafe,8.75,Olivia Kim
-Shrimp Scampi,Seafood Delight,19.50,Ethan Turner
-Chicken Teriyaki,Rising Sun Restaurant,12.75,Ava Stewart
-Mango Lassi,Indian Spice,5.25,Liam Gonzales
-Grilled Cheese,The Melting Pot,9.50,Isabella Reed
-Eggplant Parmesan,La Cucina,13.25,Mia Carter
-Beef Burrito,El Rancho,11.00,Noah Collins
-Chop Suey,Dragon Wok,10.75,Aiden Murphy
-Ramen Bowl,Ramen Heaven,14.50,Sofia Rivera
-Pancakes,Diner's Delight,8.75,Elijah Green
-Cajun Shrimp,The Bayou,19.25,Victoria Cook
-Chicken Tandoori,Spice Route,12.00,Alexander Hill
-Miso Soup,Sakura Sushi,5.50,Ava Sanders
-Lobster Roll,Seafood Delight,22.75,Grace Turner
-Hawaiian Pizza,Pizza Paradise,17.00,Leo Price
-Falafel Wrap,Mediterranean Grill,9.25,Aria Cox
-Tom Yum Goong,Spice Thai Cuisine,12.50,Daniel Phillips
-Stir-fry Noodles,Dragon Wok,10.50,Emilia Baker
-Vegetable Samosa,Indian Spice,6.75,Lucas Howard
-Chicken Katsu,Rising Sun Restaurant,13.25,Victoria Reed
-Tiramisu,La Dolce Vita,8.50,Sebastian Diaz
-Chili Con Carne,The Chili House,11.75,Bella Foster
-Pad See Ew,Thai Taste,13.00,Ethan Peterson
-Hamburger,The Burger Joint,10.00,Harper Simmons
-Bacon and Eggs,Diner's Delight,9.75,Scarlett Collins
-Chicken Satay,Satay Express,8.25,Henry Lewis
-Lemonade,The Refreshment Stand,3.75,Chloe Ross
-Ceviche,Mexico Lindo,10.25,Anna Scott
-Chicken Fajitas,Taco Fiesta,12.50,Nathan Morgan
-Falafel Plate,Mediterranean Grill,9.50,Grace Murphy
-Vegetable Soup,The Cozy Kitchen,7.25,Zoe Sanders
-Beef and Broccoli,Golden Dragon,11.75,Isaac Bell
-Chicken Shawarma,Pita Paradise,11.00,Audrey Carter
-Linguine Carbonara,La Trattoria,16.75,Owen Bennett
-Cheesecake,Sweet Treats Bakery,6.50,Hannah Martin
-Kung Pao Chicken,Dragon Wok,11.50,Evelyn Rivera
+Burger,Foodie's Diner,10.50,John Smith
+Pasta,Italian Delight,15.75,Emily Johnson
+Pizza,Family Pizzeria,20.00,Michael Williams
+Salad,Healthy Bites,8.25,Sophia Brown
+Sushi,Sakura Sushi,25.50,James Miller
+Steak,Grill Master,30.75,Olivia Davis
+Taco,Taco Fiesta,12.00,Liam Wilson
+Sushi,Sakura Sushi,24.50,Emma Anderson
+Burger,Foodie's Diner,11.25,Noah Martinez
+Pasta,Italian Delight,17.00,Ava Garcia
+Pizza,Family Pizzeria,18.75,Liam Wilson
+Salad,Healthy Bites,9.50,Isabella Martinez
+Sushi,Sakura Sushi,26.25,Oliver Johnson
+Steak,Grill Master,32.00,Sophia Smith
+Taco,Taco Fiesta,14.00,William Davis
+Burger,Foodie's Diner,12.75,Emma Wilson
+Pasta,Italian Delight,19.25,Aiden Brown
+Pizza,Family Pizzeria,22.50,Olivia Johnson
+Salad,Healthy Bites,10.75,Liam Davis
+Sushi,Sakura Sushi,28.00,Isabella Garcia
+Steak,Grill Master,33.75,James Anderson
+Taco,Taco Fiesta,15.50,Ava Williams
+Burger,Foodie's Diner,14.25,Noah Wilson
+Pasta,Italian Delight,21.00,Sophia Miller
+Pizza,Family Pizzeria,24.25,Michael Smith
+Salad,Healthy Bites,12.50,William Garcia
+Sushi,Sakura Sushi,29.75,Emma Brown
+Steak,Grill Master,35.50,Liam Davis
+Taco,Taco Fiesta,17.25,Olivia Wilson
+Burger,Foodie's Diner,16.00,Aiden Anderson
+Pasta,Italian Delight,22.75,Isabella Smith
+Pizza,Family Pizzeria,26.50,James Davis
+Salad,Healthy Bites,14.25,Sophia Johnson
+Sushi,Sakura Sushi,32.25,Liam Williams
+Steak,Grill Master,38.00,Emma Miller
+Taco,Taco Fiesta,19.50,Oliver Wilson
+Burger,Foodie's Diner,17.75,Ava Davis
+Pasta,Italian Delight,24.00,Michael Garcia
+Pizza,Family Pizzeria,28.75,Isabella Williams
+Salad,Healthy Bites,15.75,John Smith
+Sushi,Sakura Sushi,34.50,Sophia Garcia
+Steak,Grill Master,40.25,Oliver Brown
+Taco,Taco Fiesta,21.00,Emily Anderson
+Burger,Foodie's Diner,19.25,James Smith
+Pasta,Italian Delight,26.50,Ava Smith
+Pizza,Family Pizzeria,31.25,Sophia Wilson
+Salad,Healthy Bites,17.00,Liam Anderson
+Sushi,Sakura Sushi,36.75,Emma Smith
+Steak,Grill Master,43.50,Aiden Davis
+Taco,Taco Fiesta,23.00,Isabella Anderson
+Burger,Foodie's Diner,21.75,Michael Johnson
+Pasta,Italian Delight,28.75,James Brown
+Pizza,Family Pizzeria,33.50,Emily Smith
+Salad,Healthy Bites,18.75,Olivia Garcia
+Sushi,Sakura Sushi,38.25,William Smith
+Steak,Grill Master,47.00,Sophia Anderson
+Taco,Taco Fiesta,24.50,Liam Garcia
+Burger,Foodie's Diner,24.00,Emma Davis
+Pasta,Italian Delight,31.00,Noah Brown
+Pizza,Family Pizzeria,36.00,Ava Johnson
+Salad,Healthy Bites,20.25,Michael Brown
+Sushi,Sakura Sushi,41.00,Isabella Brown
+Steak,Grill Master,50.75,James Williams
+Taco,Taco Fiesta,26.00,Sophia Brown
+Burger,Foodie's Diner,26.75,Liam Smith
+Pasta,Italian Delight,33.25,Ava Wilson
+Pizza,Family Pizzeria,39.50,Oliver Smith
+Salad,Healthy Bites,22.50,Emily Garcia
+Sushi,Sakura Sushi,43.25,Noah Garcia
+Steak,Grill Master,53.50,Emma Williams
+Taco,Taco Fiesta,27.50,Aiden Smith
+Burger,Foodie's Diner,28.50,Isabella Wilson
+Pasta,Italian Delight,36.00,Michael Anderson
+Pizza,Family Pizzeria,42.75,James Garcia
+Salad,Healthy Bites,24.00,Olivia Brown
+Sushi,Sakura Sushi,46.50,Sophia Smith
+Steak,Grill Master,56.25,Liam Miller
+Taco,Taco Fiesta,29.75,William Anderson
+Burger,Foodie's Diner,30.25,Emily Wilson
+Pasta,Italian Delight,38.75,Noah Smith
+Pizza,Family Pizzeria,45.00,Ava Miller
+Salad,Healthy Bites,26.25,Michael Anderson
+Sushi,Sakura Sushi,49.00,Emma Garcia
+Steak,Grill Master,59.00,James Smith
+Taco,Taco Fiesta,32.00,Sophia Wilson
