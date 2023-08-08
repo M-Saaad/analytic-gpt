@@ -6,10 +6,11 @@ from langchain.llms import OpenAI
 from langchain.agents import create_csv_agent
 from langchain.agents.agent_types import AgentType
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 app = Flask(__name__, static_folder='static', template_folder='templates')
 
-os.environ["OPENAI_API_KEY"] = "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"
 # loader = CSVLoader(file_path='data/test_data.csv')
 # index_creator = VectorstoreIndexCreator()
 # docsearch = index_creator.from_loaders([loader])
