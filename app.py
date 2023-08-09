@@ -23,16 +23,35 @@ def generate_response(query):
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    return render_template("ai.html")
 
 @app.route("/chat_ai", methods=["POST"])
 def chat():
-    user_message = request.form["user_input"]
+    user_input = request.form["user_input"]
     chat_history = request.form["chat_history"]
-    prompt = f"{chat_history}User: {user_message}\nAI: "
-    response = generate_response(prompt)
-    chat_history = f"{chat_history}User: {user_message}\nAI: {response}\n"
-    return render_template("index.html", chat_history=chat_history)
+    prompt = f"{chat_history}User: {user_input}\nAI: "
+    try:
+        response = generate_response(prompt)
+    except:
+        print("Error:", response)
+        pass
+    bot_response = f"""
+        <li style="font-size: 22px; color: #adaeb2;">
+            <span style="font-size: 22px; color: #adaeb2;">{response}</span>
+        </li>
+    """
+    user_message = f"""
+        <div tabindex="0"
+            class="w-50 my-4 p-2 chat-send " style="background-color: #7b7af1; position: relative; border-radius: 10px;">
+            <p style="font-size: 19px;">
+                {user_input}
+            </p>
+            <div class="position-absolute top-10 end-0  border-5  border-bottom-0 border-transparent rounded-end-lg p-2"
+            style="background-color: #7b7af1; border-bottom-left-radius: 30px">
+            </div>
+        </div>       
+    """
+    return render_template("ai.html", user_message=user_message, bot_response=bot_response)
 
 if __name__ == "__main__":
     app.run(debug=True)
